@@ -1,0 +1,61 @@
+{
+  "extensionName": "Work Coach",
+  "settingsTitle": "Work Coach Ayarları",
+  "statsTitle": "Çalışma İstatistikleri",
+  "saveAndClose": "Kaydet ve Kapat",
+  "languageLabel": "Dil",
+  "intervalLabel": "Aralık (dk):",
+  "blockThresholdLabel": "Blok Eşiği:",
+  "snoozedTitle": "Ertelendi",
+  "snoozedMessage": "Hatırlatıcı 5 dakika ertelendi. (Kalan erteleme hakkı: {remaining})",
+  "snoozeLimitTitle": "Erteleme Limiti Doldu",
+  "snoozeLimitMessage": "Sağlığınız için lütfen bu hatırlatıcıyı atlamayın.",
+  "snoozeButton": "Ertele (5 dk)",
+  "completeButton": "Tamam",
+  "statsButton": "İstatistikleri Göster",
+  "totalWorkTime": "Toplam Çalışma Süresi:",
+  "todayWorkTime": "Bugünkü Çalışma Süresi:",
+  "thisWeekWorkTime": "Bu Haftaki Çalışma Süresi:",
+  "thisMonthWorkTime": "Bu Aylık Çalışma Süresi:",
+  "remindersCompleted": "Tamamlanan Hatırlatıcılar:",
+  "noRemindersCompleted": "Henüz tamamlanan hatırlatıcı yok.",
+  "timeFormat": "{h} saat, {m} dk, {s} sn",
+  "getAiAdvice": "Yapay Zekadan Öneri Al",
+  "aiLoading": "Öneriler alınıyor, lütfen bekleyin...",
+  "aiError": "Öneri alınamadı. Lütfen daha sonra tekrar deneyin.",
+  "aiPrompt": "Günde {daily}, haftada {weekly}, ayda {monthly} saat bir kodlama platformunda proje geliştiriyorum. Bu çalışma alışkanlıklarına göre bana kısa ve motive edici bir verimlilik önerisi ver.",
+  "reminderNames": {
+    "rule202020": "20-20-20 Kuralı",
+    "movementBreak": "Hareket Molası",
+    "postureCheck": "Duruş Kontrolü",
+    "hydration": "Su Molası",
+    "longBreak": "Uzun Mola",
+    "creativeBoost": "Yaratıcılık Takviyesi"
+  },
+  "reminders": {
+    "rule202020": {
+      "title": "20-20-20 Kuralı",
+      "message": "Gözlerini dinlendirme zamanı! 20 saniye boyunca 20 fit (6m) uzaktaki bir nesneye bak."
+    },
+    "movementBreak": {
+      "title": "Hareket Molası!",
+      "message": "Hareket etme zamanı. Öneri: {tip}"
+    },
+    "postureCheck": {
+      "title": "Duruş Kontrolü",
+      "message": "Dik otur, bileklerini düz tut ve ekrana çok fazla yaklaşma."
+    },
+    "hydration": {
+      "title": "Su İçme Zamanı",
+      "message": "Bir bardak su, beyninin zinde kalmasına yardımcı olur. Hadi iç bakalım!"
+    },
+    "longBreak": {
+      "title": "Uzun Bir Molayı Hak Ettin!",
+      "message": "Bu proje üzerinde {hours} saattir harika iş çıkarıyorsun! Zihnini tazelemek için 15 dakika ara ver."
+    },
+    "creativeBoost": {
+      "title": "Yaratıcılık Takviyesi!",
+      "message": "Son molandan bu yana {blocks} blok ekledin! Yaratıcılığını ateşlemek için hızlı bir meydan okuma: {prompt}"
+    }
+  }
+}
