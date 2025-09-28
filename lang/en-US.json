@@ -1,0 +1,61 @@
+{
+  "extensionName": "Work Coach",
+  "settingsTitle": "Work Coach Settings",
+  "statsTitle": "Work Statistics",
+  "saveAndClose": "Save and Close",
+  "languageLabel": "Language",
+  "intervalLabel": "Interval (min):",
+  "blockThresholdLabel": "Block Threshold:",
+  "snoozedTitle": "Snoozed",
+  "snoozedMessage": "Reminder snoozed for 5 minutes. (Snoozes remaining: {remaining})",
+  "snoozeLimitTitle": "Snooze Limit Reached",
+  "snoozeLimitMessage": "For your health, please do not skip this reminder.",
+  "snoozeButton": "Snooze (5 min)",
+  "completeButton": "Done",
+  "statsButton": "Show Statistics",
+  "totalWorkTime": "Total Work Time:",
+  "todayWorkTime": "Today's Work Time:",
+  "thisWeekWorkTime": "This Week's Work Time:",
+  "thisMonthWorkTime": "This Month's Work Time:",
+  "remindersCompleted": "Reminders Completed:",
+  "noRemindersCompleted": "No reminders completed yet.",
+  "timeFormat": "{h}h {m}m {s}s",
+  "getAiAdvice": "Get AI Advice",
+  "aiLoading": "Getting recommendations, please wait...",
+  "aiError": "Could not get recommendation. Please try again later.",
+  "aiPrompt": "I spend {daily} hours a day, {weekly} hours a week, and {monthly} hours a month developing projects on a coding platform. Based on these work habits, give me a short and motivating productivity tip.",
+  "reminderNames": {
+    "rule202020": "20-20-20 Rule",
+    "movementBreak": "Movement Break",
+    "postureCheck": "Posture Check",
+    "hydration": "Hydration Break",
+    "longBreak": "Long Break",
+    "creativeBoost": "Creative Boost"
+  },
+  "reminders": {
+    "rule202020": {
+      "title": "20-20-20 Rule",
+      "message": "Time to rest your eyes! Look at an object 20 feet (6m) away for 20 seconds."
+    },
+    "movementBreak": {
+      "title": "Movement Break!",
+      "message": "Time to move. Suggestion: {tip}"
+    },
+    "postureCheck": {
+      "title": "Posture Check",
+      "message": "Sit up straight, keep your wrists flat, and don't lean too close to the screen."
+    },
+    "hydration": {
+      "title": "Time to Hydrate",
+      "message": "A glass of water helps your brain stay sharp. Let's drink up!"
+    },
+    "longBreak": {
+      "title": "You Deserve a Long Break!",
+      "message": "You've been doing great work on this project for {hours} hours! Take a 15-minute break to refresh your mind."
+    },
+    "creativeBoost": {
+      "title": "Creative Boost!",
+      "message": "You've added {blocks} blocks since your last break! Here's a quick challenge to spark your creativity: {prompt}"
+    }
+  }
+}
