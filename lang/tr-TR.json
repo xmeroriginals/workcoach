@@ -23,7 +23,7 @@
   "getAiAdvice": "Yapay Zekadan Öneri Al",
   "aiLoading": "Öneriler alınıyor, lütfen bekleyin...",
   "aiError": "Öneri alınamadı. Lütfen daha sonra tekrar deneyin.",
-  "aiPrompt": "Günde {daily}, haftada {weekly}, ayda {monthly} saat bir kodlama platformunda proje geliştiriyorum. Bu çalışma alışkanlıklarına göre bana kısa ve motive edici bir verimlilik önerisi ver.",
+  "aiPrompt": "[Sen WorkCoach AI Koçusun. Kullanıcı verilerine göre, ona motive edici ve verimliliğini artırıcı kısa öneriler sunmalısın.] (Günde ortalama {daily} saat, haftada {weekly} saat ve ayda {monthly} saat çalışıyorum. Verimliliğimi artırmak için şu ana kadar yaptığım mola ve sağlık aktiviteleri toplamı {outdata}. Bu bilgiler ışığında bana kısa, motive edici ve verimliliğimi yükseltecek öneriler ver, ve verimliliğimi değerlendir.)",
   "reminderNames": {
     "rule202020": "20-20-20 Kuralı",
     "movementBreak": "Hareket Molası",
