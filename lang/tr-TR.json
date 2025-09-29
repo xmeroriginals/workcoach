@@ -1,11 +1,11 @@
 {
-  "extensionName": "Work Coach",
-  "settingsTitle": "Work Coach Ayarları",
+  "extensionName": "WorkCoach",
+  "settingsTitle": "WorkCoach Ayarları",
   "statsTitle": "Çalışma İstatistikleri",
   "saveAndClose": "Kaydet ve Kapat",
   "languageLabel": "Dil",
-  "intervalLabel": "Aralık (dk):",
-  "blockThresholdLabel": "Blok Eşiği:",
+  "intervalLabel": "Aralık (dk)",
+  "blockThresholdLabel": "Blok Eşiği",
   "snoozedTitle": "Ertelendi",
   "snoozedMessage": "Hatırlatıcı 5 dakika ertelendi. (Kalan erteleme hakkı: {remaining})",
   "snoozeLimitTitle": "Erteleme Limiti Doldu",
@@ -13,17 +13,13 @@
   "snoozeButton": "Ertele (5 dk)",
   "completeButton": "Tamam",
   "statsButton": "İstatistikleri Göster",
-  "totalWorkTime": "Toplam Çalışma Süresi:",
-  "todayWorkTime": "Bugünkü Çalışma Süresi:",
-  "thisWeekWorkTime": "Bu Haftaki Çalışma Süresi:",
-  "thisMonthWorkTime": "Bu Aylık Çalışma Süresi:",
-  "remindersCompleted": "Tamamlanan Hatırlatıcılar:",
-  "noRemindersCompleted": "Henüz tamamlanan hatırlatıcı yok.",
+  "totalWorkTime": "Toplam Çalışma Süresi",
+  "todayWorkTime": "Bugünkü Çalışma Süresi",
+  "thisWeekWorkTime": "Bu Haftaki Çalışma Süresi",
+  "thisMonthWorkTime": "Bu Aylık Çalışma Süresi",
+  "remindersCompleted": "Tamamlanan Görevler",
+  "noRemindersCompleted": "Henüz tamamlanan görev yok.",
   "timeFormat": "{h} saat, {m} dk, {s} sn",
-  "getAiAdvice": "Yapay Zekadan Öneri Al",
-  "aiLoading": "Öneriler alınıyor, lütfen bekleyin...",
-  "aiError": "Öneri alınamadı. Lütfen daha sonra tekrar deneyin.",
-  "aiPrompt": "[Sen WorkCoach AI Koçusun. Kullanıcı verilerine göre, ona motive edici ve verimliliğini artırıcı kısa öneriler sunmalısın.] (Günde ortalama {daily} saat, haftada {weekly} saat ve ayda {monthly} saat çalışıyorum. Verimliliğimi artırmak için şu ana kadar yaptığım mola ve sağlık aktiviteleri toplamı {outdata}. Bu bilgiler ışığında bana kısa, motive edici ve verimliliğimi yükseltecek öneriler ver, ve verimliliğimi değerlendir.)",
   "reminderNames": {
     "rule202020": "20-20-20 Kuralı",
     "movementBreak": "Hareket Molası",
@@ -39,7 +35,7 @@
     },
     "movementBreak": {
       "title": "Hareket Molası!",
-      "message": "Hareket etme zamanı. Öneri: {tip}"
+      "message": "Hareket etme zamanı. Öneri, {tip}"
     },
     "postureCheck": {
       "title": "Duruş Kontrolü",
@@ -47,15 +43,15 @@
     },
     "hydration": {
       "title": "Su İçme Zamanı",
-      "message": "Bir bardak su, beyninin zinde kalmasına yardımcı olur. Hadi iç bakalım!"
+      "message": "Bir bardak su, zinde kalmasıza yardımcı olur."
     },
     "longBreak": {
-      "title": "Uzun Bir Molayı Hak Ettin!",
-      "message": "Bu proje üzerinde {hours} saattir harika iş çıkarıyorsun! Zihnini tazelemek için 15 dakika ara ver."
+      "title": "Bir Molayı Hak Ettiniz",
+      "message": "Bu proje üzerinde {hours} saattir harika iş çıkarıyorsun! Zihnini tazelemek için en az 15 dakika ara ver."
     },
     "creativeBoost": {
       "title": "Yaratıcılık Takviyesi!",
-      "message": "Son molandan bu yana {blocks} blok ekledin! Yaratıcılığını ateşlemek için hızlı bir meydan okuma: {prompt}"
+      "message": "Son molandan bu yana {blocks} blok ekledin! Yaratıcılığını ateşlemek için hızlı bir Meydan Okuma, {prompt}"
     }
   }
 }
