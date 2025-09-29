@@ -23,7 +23,7 @@
   "getAiAdvice": "Get AI Advice",
   "aiLoading": "Getting recommendations, please wait...",
   "aiError": "Could not get recommendation. Please try again later.",
-  "aiPrompt": "I spend {daily} hours a day, {weekly} hours a week, and {monthly} hours a month developing projects on a coding platform. Based on these work habits, give me a short and motivating productivity tip.",
+  "aiPrompt": "[You are WorkCoach AI. Based on the user’s data, you should provide short, motivating, and productivity-boosting suggestions.] (I work an average of {daily} hours per day, {weekly} hours per week, and {monthly} hours per month. So far, the total amount of breaks and health activities I’ve done for productivity is {outdata}. Based on this information, give me short, motivating, and productivity-enhancing suggestions, and evaluating efficiency.)",
   "reminderNames": {
     "rule202020": "20-20-20 Rule",
     "movementBreak": "Movement Break",
