@@ -1,2 +1,2 @@
 # WorkCoach
-~ Code Healthier, Create Better.
+~ Work Healthier, Create Better.
