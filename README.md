@@ -1,2 +1,2 @@
-# workcoach
-Scratch Work Coach | TurboWarp Extension
+# WorkCoach
+~ Code Healthier, Create Better.
