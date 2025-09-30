@@ -1,36 +1,32 @@
 {
-  "extensionName": "Work Coach",
-  "settingsTitle": "Work Coach Settings",
+  "extensionName": "WorkCoach",
+  "settingsTitle": "WorkCoach Settings",
   "statsTitle": "Work Statistics",
   "saveAndClose": "Save and Close",
   "languageLabel": "Language",
-  "intervalLabel": "Interval (min):",
-  "blockThresholdLabel": "Block Threshold:",
+  "intervalLabel": "Interval (min)",
+  "blockThresholdLabel": "Block Threshold",
   "snoozedTitle": "Snoozed",
-  "snoozedMessage": "Reminder snoozed for 5 minutes. (Snoozes remaining: {remaining})",
+  "snoozedMessage": "Reminder snoozed for 5 minutes. (Remaining snoozes: {remaining})",
   "snoozeLimitTitle": "Snooze Limit Reached",
   "snoozeLimitMessage": "For your health, please do not skip this reminder.",
   "snoozeButton": "Snooze (5 min)",
-  "completeButton": "Done",
+  "completeButton": "Complete",
   "statsButton": "Show Statistics",
-  "totalWorkTime": "Total Work Time:",
-  "todayWorkTime": "Today's Work Time:",
-  "thisWeekWorkTime": "This Week's Work Time:",
-  "thisMonthWorkTime": "This Month's Work Time:",
-  "remindersCompleted": "Reminders Completed:",
-  "noRemindersCompleted": "No reminders completed yet.",
-  "timeFormat": "{h}h {m}m {s}s",
-  "getAiAdvice": "Get AI Advice",
-  "aiLoading": "Getting recommendations, please wait...",
-  "aiError": "Could not get recommendation. Please try again later.",
-  "aiPrompt": "[You are WorkCoach AI. Based on the user’s data, you should provide short, motivating, and productivity-boosting suggestions.] (I work an average of {daily} hours per day, {weekly} hours per week, and {monthly} hours per month. So far, the total amount of breaks and health activities I’ve done for productivity is {outdata}. Based on this information, give me short, motivating, and productivity-enhancing suggestions, and evaluating efficiency.)",
+  "totalWorkTime": "Total Work Time",
+  "todayWorkTime": "Today's Work Time",
+  "thisWeekWorkTime": "This Week's Work Time",
+  "thisMonthWorkTime": "This Month's Work Time",
+  "remindersCompleted": "Completed Tasks",
+  "noRemindersCompleted": "No tasks completed yet.",
+  "timeFormat": "{h} hr, {m} min, {s} sec",
   "reminderNames": {
     "rule202020": "20-20-20 Rule",
     "movementBreak": "Movement Break",
     "postureCheck": "Posture Check",
     "hydration": "Hydration Break",
     "longBreak": "Long Break",
-    "creativeBoost": "Creative Boost"
+    "creativeBoost": "Creativity Boost"
   },
   "reminders": {
     "rule202020": {
@@ -39,23 +35,23 @@
     },
     "movementBreak": {
       "title": "Movement Break!",
-      "message": "Time to move. Suggestion: {tip}"
+      "message": "Time to move. Suggested activity: {tip}"
     },
     "postureCheck": {
       "title": "Posture Check",
-      "message": "Sit up straight, keep your wrists flat, and don't lean too close to the screen."
+      "message": "Sit up straight, keep your wrists neutral, and avoid leaning too close to the screen."
     },
     "hydration": {
-      "title": "Time to Hydrate",
-      "message": "A glass of water helps your brain stay sharp. Let's drink up!"
+      "title": "Time to Drink Water",
+      "message": "A glass of water helps you stay refreshed."
     },
     "longBreak": {
-      "title": "You Deserve a Long Break!",
-      "message": "You've been doing great work on this project for {hours} hours! Take a 15-minute break to refresh your mind."
+      "title": "You've Earned a Break",
+      "message": "You've been doing great on this project for {hours} hours! Take at least 15 minutes to refresh your mind."
     },
     "creativeBoost": {
-      "title": "Creative Boost!",
-      "message": "You've added {blocks} blocks since your last break! Here's a quick challenge to spark your creativity: {prompt}"
+      "title": "Creativity Boost!",
+      "message": "Since your last break, you've completed {blocks} blocks! Ignite your creativity with a quick Challenge: {prompt}"
     }
   }
 }
